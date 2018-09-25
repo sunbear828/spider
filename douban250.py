@@ -1,3 +1,4 @@
+#DOUBAN Top 250 movie information
 # -*- coding:utf-8 -*-
 from bs4 import BeautifulSoup
 import urllib.request as urlrequest
